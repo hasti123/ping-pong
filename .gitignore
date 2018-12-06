@@ -2,8 +2,7 @@
 .gradle/
 .idea/
 build/
-gradle/
-gradlew
 gradlew.bat
 out/
 ping-pong.iml
+!/build/libs/ping-pong-1.0-SNAPSHOT.jar
